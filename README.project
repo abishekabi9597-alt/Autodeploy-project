@@ -1,0 +1,7 @@
+#Autodeploy CI/CD pipeline
+
+Tools:Linux(Ubuntu), Git, Github, Jenkins, Nginx
+
+FloW:Code push to Github -> Jenkins detects change-> Jenkins deploy to nginx ->Website updates automatically 
+
+
